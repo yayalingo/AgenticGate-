@@ -1,0 +1,6 @@
+{
+  "name": "AgenticGate V2 — OWASP Agentic V2 确定性安全网关",
+  "description": "基于 OWASP Securing Agentic Applications V2 的进程外确定性拦截网关实验台：集成 MCP 全定义 SHA-256 哈希锁、动态 Nonce 信封与 ITSM 交叉核验、链式轨迹取证账本及 Python 3.12 参考实现。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
